@@ -1,15 +1,23 @@
-### Hi there 👋
+### Hi there, welcome to my github 👋
 
-
-**Harounm93/Harounm93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer with experience working with full stack technologies, with a strong passion for technology, science and sport. Utilised agile techniques to create real world solutions remotely. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 2 React apps, a game and a full stack diary app to practice the skills i learnt over the past weeks.
+- 
+- 🌱 I’m currently learning 
++ React Testing Library
++ Auth0
++ Harvard CS50
++ Redux
+
+- 👯 I’m looking to collaborate on fun and challenging projects to further develop my programming skills
+
+- 💬 Ask me about
++ My fantastic School of Code experience 
++ Any of my projects and past experience
++ Football, tech and movies
+
+- 📫 How to reach me: Via email or LinkedIn
+
