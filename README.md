@@ -5,7 +5,7 @@ A software developer with experience working with full stack technologies, with 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 2 React apps, a game and a full stack diary app to practice the skills i learnt over the past weeks.
-- 
+ 
 - 🌱 I’m currently learning 
 + React Testing Library
 + Auth0
