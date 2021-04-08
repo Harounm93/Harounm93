@@ -10,8 +10,10 @@ A software developer with experience working with full stack technologies, with 
 + Harvard CS50
 + Redux
 + GraphQL
++ Postman Student Expert Program
 
-## 👯 I’m looking to collaborating on fun and challenging projects to further develop my programming skills
+
+## 👯 I’m looking to collaborate on fun and challenging projects to further develop my programming skills
 
 ## 💬 Ask me about
 + My fantastic School of Code experience 
@@ -19,4 +21,5 @@ A software developer with experience working with full stack technologies, with 
 + Football, tech and movies
 
 ## 📫 How to reach me: via email or LinkedIn
+: https://uk.linkedin.com/in/mahdi-haroun-365599204
 
