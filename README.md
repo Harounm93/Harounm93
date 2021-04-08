@@ -2,15 +2,16 @@
 
 A software developer with experience working with full stack technologies, with a strong passion for technology, science and sport. Utilised agile techniques to create real world solutions remotely. 
 
-## 🔭 I’m currently working on 2 React apps, a game and a full stack diary app to practice the skills i learnt over the past weeks.
+## 🔭 I’m currently working on 2 React apps, a game and a full stack chat app to practice the skills i learnt over the past weeks. usin
  
  ## 🌱 I’m currently learning 
 + React Testing Library
-+ Auth0
++ Auth0/Firebase
 + Harvard CS50
 + Redux
++ GraphQL
 
-## 👯 I’m looking to collaborate on fun and challenging projects to further develop my programming skills
+## 👯 I’m looking to collaborating on fun and challenging projects to further develop my programming skills
 
 ## 💬 Ask me about
 + My fantastic School of Code experience 
