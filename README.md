@@ -2,7 +2,10 @@
 
 A software developer with experience working with full stack technologies, with a strong passion for technology, science and sport. Utilised agile techniques to create real world solutions remotely. 
 
-## 🔭 I’m currently working on 2 React apps, a game and a full stack chat app to practice the skills i learnt over the past weeks. usin
+## 🔭 I’m currently working on
++ A full stack Chat app, created using firebase, react.js and socket.io
++ A Quiz game about general knowledge, built using react.js and Auth0.
++ Cleaning up code on older projects.
  
  ## 🌱 I’m currently learning 
 + React Testing Library
@@ -10,8 +13,8 @@ A software developer with experience working with full stack technologies, with 
 + Harvard CS50
 + Redux
 + GraphQL
-+ Postman Student Expert Program
-
++ Postman Student Expert Programme 
++ PostgresSQL 
 
 ## 👯 I’m looking to collaborate on fun and challenging projects to further develop my programming skills
 
