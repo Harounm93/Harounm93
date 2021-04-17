@@ -1,7 +1,7 @@
 ### Hi there, welcome to my github 👋
 
 I'm a software developer with experience working with full stack technologies, with a strong passion for technology, science and sport. I worked using agile techniques to create real world solutions remotely.
-Before School of Code i studied Biomedical Science at Coventry University, and subsequently worked in pathology/microbiology labs for a few years but i always had a passion for tech. Recently i finally took the leap and joined School of Code to pursue that dream, and i am enjoying the new daily challenges and being in a field that is always developing.
+Before School of Code i studied Biomedical Science at Coventry University, and subsequently worked in pathology/microbiology labs for a few years but i always had a passion for tech. Recently i finally took the leap and joined School of Code to pursue that dream, i am enjoying the new daily challenges and being in a field that is always developing.
 
 ## 🔭 I’m currently working on
 + A full stack Chat app, created using firebase, react.js and socket.io
@@ -11,7 +11,6 @@ Before School of Code i studied Biomedical Science at Coventry University, and s
  ## 🌱 I’m currently learning 
 + React Testing Library
 + Auth0/Firebase
-+ Harvard CS50
 + Redux
 + GraphQL
 + Postman Student Expert Programme 
